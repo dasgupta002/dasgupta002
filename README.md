@@ -1,7 +1,7 @@
 ### Heylo👋!
 
-> I am a web wizard down to earth. <br>
-> I also love to read about machine learning and blockchain regularly on Medium and DEV forums! <br>
+> I am a web wizard down to earth.\
+> I also love to read about machine learning and blockchain regularly on Medium and DEV forums!\
 > Currently I am learning React Native!
 
 * :heart: I love tech, litrature and Beatles!  
@@ -14,8 +14,21 @@ A non-techncal venture at [Wordpress](https://ashadeofmythoughts.wordpress.com/)
 
 :fire: My own website is under development, waiting a bit for launch!
 
+**Languages and Tools:**\
+<code><img src = "https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
+<code><img src = "https://img.icons8.com/dusk/48/000000/php-logo.png"/></code>
+<code><img src = "https://img.icons8.com/plasticine/48/000000/react.png"></code>
+<code><img src = "https://img.icons8.com/color/48/000000/angularjs.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/flutter.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/kotlin.png"/></code>
+<code><img src = "https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
+
+**GitHub Stats:**\
 <img align = "left" 
      src = "https://github-readme-stats.vercel.app/api?username=dasgupta002&show_icons=true&include_all_commits=true&theme=material-palenight" />
-
 <img align = "left" 
      src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dasgupta002&layout=compact&theme=material-palenight" />
