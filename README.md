@@ -17,5 +17,5 @@ A non-techncal venture at [Wordpress](https://ashadeofmythoughts.wordpress.com/)
 <img align = "left" 
      src = "https://github-readme-stats.vercel.app/api?username=dasgupta002&show_icons=true&include_all_commits=true&theme=material-palenight" />
 
-<img align = "right" 
+<img align = "left" 
      src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dasgupta002&layout=compact&theme=material-palenight" />
