@@ -1,10 +1,8 @@
 ### Heylo👋!
 
-<code><img src = "https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2" height = "20%" width = "60%" /></code>
+<code><img src = "https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2" height = "300px" width = "1200px" /></code>
 
-> I am a web wizard down to earth.\
-> I also love to read about machine learning and blockchain regularly on Medium and DEV forums!\
-> Currently I am learning React Native!
+> I am a web wizard and techie deep down. I also love to follow up about machine learning and blockchain regularly on medium and DEV forums. I am a passionate thinker and love to write blogs as well as poetry in a whizz. 
 
 * :heart: I love tech, litrature and Beatles!  
 * 👯 I am looking to collaborate actively!
