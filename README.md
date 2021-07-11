@@ -1,5 +1,7 @@
 ### Heylo👋!
 
+<code><img src = "https://images.pexels.com/photos/34153/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=150" width = "100%" /></code>
+
 > I am a web wizard down to earth.\
 > I also love to read about machine learning and blockchain regularly on Medium and DEV forums!\
 > Currently I am learning React Native!
