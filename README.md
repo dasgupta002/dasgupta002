@@ -18,14 +18,11 @@ A non-techncal venture at [Wordpress](https://ashadeofmythoughts.wordpress.com/)
 <code><img src = "https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
 <code><img src = "https://img.icons8.com/dusk/48/000000/php-logo.png"/></code>
 <code><img src = "https://img.icons8.com/plasticine/48/000000/react.png"></code>
-<code><img src = "https://img.icons8.com/color/48/000000/angularjs.png"/></code>
 <code><img src = "https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <code><img src = "https://img.icons8.com/color/48/000000/mongodb.png"/></code>
 <code><img src = "https://img.icons8.com/color/48/000000/python--v1.png"/></code>
 <code><img src = "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img src = "https://img.icons8.com/color/48/000000/flutter.png"/></code>
-<code><img src = "https://img.icons8.com/color/48/000000/kotlin.png"/></code>
-<code><img src = "https://img.icons8.com/color/48/000000/tensorflow.png"/></code>
 
 **GitHub Stats:**\
 <img align = "left" 
