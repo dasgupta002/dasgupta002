@@ -12,7 +12,7 @@
 **Find Me at [Linkedin](https://www.linkedin.com/in/dasgupta002/) </br>
 A non-techncal venture at [Wordpress](https://ashadeofmythoughts.wordpress.com/)**
 
-:fire: My own website is under development, waiting a bit for launch!
+:fire: My own website is out of development, have a look [here](http://dasguptasubhrakanti.gq) and drop your points on that!
 
 **Languages and Tools:**\
 <code><img src = "https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
