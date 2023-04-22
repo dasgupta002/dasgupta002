@@ -12,7 +12,7 @@
 **Find Me at [Linkedin](https://www.linkedin.com/in/dasgupta002/) </br>
 A non-techncal venture at [Calcutta Highways](https://calcuttahighways.nrtlify.app/)**
 
-:fire: My own website is out of development, have a look [here](http://dasguptasubhrakanti.gq) and drop your points on that!
+:fire: My own website is back from garage, have a look [here](http://dasguptasubhrakanti.netlify.app) and drop your points on that!
 
 **Languages and Tools:**\
 <code><img src = "https://img.icons8.com/plasticine/48/000000/react.png"></code>
